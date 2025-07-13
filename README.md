@@ -1,5 +1,5 @@
 Hi 👋, I'm Uriel Villela
-Cybersecurity practitioner building tools to understand, test, and secure systems.
+
 
 Passionate about cybersecurity, ethical hacking, and securing systems through proactive defense and continuous learning.  I enjoy exploring security tools, automation, and cloud technologies to build resilient infrastructures.
 
